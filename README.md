@@ -15,7 +15,7 @@ It includes supporting figures and materials referenced in the paper.
 📄 Proportion of Agree & Disagree in Post Survey.pdf
 📄 Prompt for Feedback Generation.pdf
 📂 figures/
-  ├── fig1-slideitright-ui-anony.jpg
+  ├── fig1-slideitright-ui.jpg
   ├── fig2-workflow.jpg
   ├── fig3-different-feedback-conditions.jpg
   ├── fig4a-learning-gain.png
