@@ -13,7 +13,7 @@ It includes supporting figures and materials referenced in the paper.
 📄 Learn-by-Doing Materials.pdf
 📄 Pre- & Post-Test Design.pdf
 📄 Proportion of Agree & Disagree in Post Survey.pdf
-📄 Learner-centered Feedback Generation Prompt.pdf
+📄 Prompt for Feedback Generation.pdf
 📂 figures/
   ├── fig1-slideitright-ui-anony.jpg
   ├── fig2-workflow.jpg
